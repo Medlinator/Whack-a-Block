@@ -1,7 +1,7 @@
 # Whack-a-Block <br />
 Whack-a-Mole type game built to run in Minecraft-Pi. <br />
 <br />
-# INSTALLATION INSTRUCTION <br />
+# INSTALLATION INSTRUCTIONS <br />
 Download Whack-a-Block.py <br />
 Open Minecraft-Pi <br />
 Create world or open exisiting <br />
